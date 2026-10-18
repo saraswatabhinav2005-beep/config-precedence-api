@@ -1,1 +1,4 @@
-port: 8864\nworkers: 3\ndebug: true\nlog_level: error\n
+port: 8864
+workers: 3
+debug: true
+log_level: error
